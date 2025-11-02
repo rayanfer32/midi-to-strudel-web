@@ -1,4 +1,7 @@
-# MIDI To Strudel
+# MIDI To Strudel 
+
+> You can try the web version here - https://github.com/rayanfer32/midi-to-strudel-web
+
 A python script that converts a Midi file to Strudel code. For artists that like remixing.
 
 It sets the right cpm and creates a new sound source per Midi track. Example output:
